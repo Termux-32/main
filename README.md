@@ -1,5 +1,5 @@
-# deb-termux
-Termux base packages for Termux 0.83.
+# Main 32-bit
+Termux main packages for Termux 0.83.
 
 ## Main Repo
 For more informations, please go [here](https://codeberg.org/GamePlayer-8/Termux-apps-0.83).
@@ -12,3 +12,7 @@ For more informations, please go [here](https://codeberg.org/GamePlayer-8/Termux
 
 # License
 [Here is the info.](https://github.com/termux/termux-app/blob/master/LICENSE.md)
+
+# Licenses of compiled packages
+[Here the file to source codes.](SOURCES.md)
+
