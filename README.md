@@ -16,3 +16,7 @@ For more informations, please go [here](https://codeberg.org/GamePlayer-8/Termux
 # Licenses of compiled packages
 [Here the file to source codes.](SOURCES.md)
 
+# WARN ABOUT RUST PACKAGE
+You need to combine all files from [rust folder](https://codeberg.org/GamePlayer-8/Termux-main/src/branch/master/arm/rust) in order to have rust deb file. I.e.:
+ - `cat * > rust.deb`.
+Then install it via dpkg.
